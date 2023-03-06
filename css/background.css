@@ -1,0 +1,4 @@
+.layout_post>#post {
+  /* 以下代表白色透明度为0.3 */
+  background: rgba(255,255,255,.3);
+}
