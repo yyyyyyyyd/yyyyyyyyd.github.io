@@ -1,4 +1,4 @@
-/* 阅读进度 start */
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/* 阅读进度 start */
 document.addEventListener('pjax:complete', function () {
   window.onscroll = percent;
 });
